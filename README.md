@@ -16,7 +16,7 @@ MLflow requires `conda` to be on the `PATH` for the projects feature.
 
 Using command line interface
 
-`git clone https://github.com/rohithteja/mlflow-twitter-social-spam.git`
+`git clone https://github.com/rikeshprajapati/-mlflow-twitter-social-spam.git`
 
 `cd mlflow-twitter-social-spam`
 
@@ -25,7 +25,7 @@ Using command line interface
 ## Using docker container
 
 ### Requirements
-Build the docker container using the repo (https://github.com/rohithteja/docker-img-socialspam)
+Build the docker image.
 
 ### To run the project
 
